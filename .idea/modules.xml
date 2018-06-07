@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/module_girls/module_girls.iml" filepath="$PROJECT_DIR$/module_girls/module_girls.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_main/module_main.iml" filepath="$PROJECT_DIR$/module_main/module_main.iml" />
       <module fileurl="file://$PROJECT_DIR$/module_news/module_news.iml" filepath="$PROJECT_DIR$/module_news/module_news.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_recycleview/module_recycleview.iml" filepath="$PROJECT_DIR$/module_recycleview/module_recycleview.iml" />
     </modules>
   </component>
 </project>
